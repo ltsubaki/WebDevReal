@@ -1,0 +1,68 @@
+/*Lilian Tsubaki 6/13/2022*/
+body {
+    background-color: #2F170F;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.common {
+    background-color: #2F170F;
+    border: solid 2px white;
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.subheadercolor {
+    color:#eaa2e3;
+}
+
+.leftmenu {
+    top: 114px;
+    left: 5px;
+    width: 49%;
+    height: 305px;
+}
+
+.rightmenu {
+    top: 114px;
+    height: 305px;
+    right: 5px;
+    width: 49%;
+}
+
+.botleftmenu {
+    bottom: 39px;
+    left: 5px;
+    width: 49%;
+    height: 310px;
+}
+
+.botrightmenu {
+    bottom: 39px;
+    right: 5px;
+    width: 49%;
+    height: 310px;
+}
+
+.graphcaption{
+    color: #ced4da;
+    text-align: center;
+}
+
+.footer {
+    bottom: 5px;
+    height: 25px;
+    left: 5px;
+    right: 5px;
+    text-align: center;
+    z-index:2;
+    color: #ced4da;
+    text-align:center;
+    background-color: #2F170F;
+    border: solid 2px white;
+}

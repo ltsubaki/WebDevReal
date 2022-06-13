@@ -1,0 +1,21 @@
+/*Lilian Tsubaki 6/10/2022*/
+.site-heading-upper {
+    color: orange !important;
+}
+
+.site-heading-lower {
+    color:lightgoldenrodyellow;
+}
+
+.my-column {
+    float: left !important;
+    width: 50% !important;
+    padding: 60px !important;
+}
+
+.my-row {
+    content: "" !important;
+    display: table !important;
+    clear: both !important;
+}
+
